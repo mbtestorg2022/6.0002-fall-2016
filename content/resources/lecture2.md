@@ -4,6 +4,7 @@ description: This zip folder contains information regarding additional files for
   2. It contains contains 1 .txt file and 1 .py file.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/a196805cfcdbe8096141a445b17b668d_Lecture2.zip
 file_type: application/zip
+parent_uid: c4d42078-e168-d096-eb09-fadfcff2fabc
 resourcetype: Other
 title: Lecture2.zip
 uid: a196805c-fcdb-e809-6141-a445b17b668d
